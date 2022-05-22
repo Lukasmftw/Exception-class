@@ -144,6 +144,9 @@
   <ItemGroup>
     <Text Include="fields.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="exception.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

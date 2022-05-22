@@ -22,4 +22,9 @@
   <ItemGroup>
     <Text Include="fields.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="exception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
